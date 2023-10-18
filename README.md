@@ -111,7 +111,7 @@ Now, in your `config.yaml` file, add a `module` section.
 # Use Hugo modules to add theme
 module:
   imports:
-  - path: github.com/hugo-toha/toha/v4
+  - path: github.com/whatstack-tech/theme/v4
 ```
 
 Check this sample [config.yaml](https://github.com/hugo-toha/hugo-toha.github.io/blob/main/config.yaml) for further reference.
